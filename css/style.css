@@ -3,7 +3,7 @@ body {
 
 h1 {
   color: blue;
-  fontsize: 3em; 
+  fontsize: 3em;
 }
 
 h2 {
@@ -12,11 +12,8 @@ h2 {
   font-style: italic;
 }
 
-.completed {
+ul #tasks.completed {
   font-family: 12px;
-}
-
-#tasks .completed 
   backgound: #ccc;
   text-decoration: underline;
 }
