@@ -15,6 +15,6 @@ h2 {
 
 ul #tasks.completed {
   font-family: 12px;
-  backgound: #ccc;
+  backgound-color: #ccc;
   text-decoration: underline;
 }
